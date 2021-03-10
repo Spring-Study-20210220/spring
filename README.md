@@ -9,7 +9,21 @@
   > ![image](https://user-images.githubusercontent.com/59992230/110586312-5e888100-81b5-11eb-81b4-8046d6c1e2b8.png)
 
 ✔ 코드 정리
-  >
+  > main에서 다음과 같이 브랜칭을 한다.  
+  > ![image](https://user-images.githubusercontent.com/59992230/110593993-9c8aa280-81bf-11eb-95a6-8819b45f1666.png)  
+  > 디렉토리 구조는 다음과 같이 구성한다.  
+  > ```sh
+  > ├─spring 
+  > │  │  README.md
+  > │  │  .gitignore
+  > │  ├─2.3
+  > │  │      src
+  > │  │      ...
+  > │  └─3.3
+  > │         src
+  > │         ...
+  > ```
+  > 
   >
 
 ### Toby's Spring Vol.1

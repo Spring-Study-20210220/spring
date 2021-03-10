@@ -36,3 +36,8 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# 3.5
+3.5/.gradle
+3.5/.idea
+3.5/build
